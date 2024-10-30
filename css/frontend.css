@@ -1,0 +1,200 @@
+
+
+.bwhd-frontend-bigbutton{
+	border: 1px solid #e5e5e5;
+	border-radius: 4px;
+	color: #5d5c5c;
+	cursor: pointer;
+	padding-top: 11px;
+	width: 100px;
+	float:left;
+	margin-right: 20px;
+	background-color:#f9f9f9;
+}
+.bwhd-frontend-bigbutton-icon{
+	height: 36px;
+	width: 36px;
+	margin-bottom:6px;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.bwhd-frontend-bigbutton-text{
+	font-size:11px;
+}
+
+
+
+
+
+.bwhd-frontend-panel-default{
+	border-color: #ddd;
+	background: #fff none repeat scroll 0 0;
+	border: 1px solid #e5e5e5;
+	box-shadow: none;
+	margin-bottom: 20px;
+	padding: 20px;
+	position: relative;
+	border-radius: 3px;
+}
+.bwhd-frontend-panel-default-title {
+	background: #f9f9f9 none repeat scroll 0 0;
+	border-bottom: medium none;
+	color: #58666e;
+	font-size: 14px;
+	font-weight: bold;
+	margin: -20px -20px 20px;
+	padding: 16px 20px;
+	text-transform: uppercase;
+}
+
+
+
+.bwhd-frontend-subpanel{
+	border: 1px solid #dddddd;
+	padding:20px;
+}
+.bwhd-frontend-subpanel-title{
+	font-size: 120%;
+}
+
+
+
+
+.bwhd-frontend-span-margin-bottom{
+	margin-bottom:20px;
+	display:block;
+	font-size:90%;
+}
+
+
+
+
+.bwhd-frontend-label-required:after{
+	content:" *";
+	color:red;
+}
+
+.bwhd-frontend-errorinputborder{
+	border-color: #ef4836 !important;
+}
+.bwhd label {
+	font-size: 85%;
+	font-weight: bold !important;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+#bwhd-frontend-controls-ticketedit-listmessagescontainer{
+	margin-top:20px;
+}
+
+
+.bwhd-frontend-controls-ticketedit-listmessagescontainer-item{
+	margin-bottom: 20px;
+	line-height: auto !important;
+}
+
+.bwhd-frontend-controls-ticketedit-listmessagescontainer-authoranddate{
+	font-size:85%;
+}
+
+
+
+
+
+.bwhd-frontend-datatable-editicon{
+	color: #5cb85c;
+	cursor: pointer;
+	font-size: 16px !important;
+}
+.bwhd-frontend-datatable-editicon{
+	color: #5cb85c;
+	cursor: pointer;
+	font-size: 16px !important;
+}
+.bwhd table.dataTable thead th, table.dataTable thead td {
+	font-family:"Arial" !important;
+	font-size:14px !important;
+	font-weight: bold !important;
+	padding: 15px 10px !important;
+}
+.bwhd table.dataTable tbody td {
+	padding: 15px 10px !important;
+}
+
+
+
+.bwhd-frontend-horizontalsubmenu{
+	background: #fff none repeat scroll 0 0;
+	border-left: 1px solid #e5e5e5;
+	border-right: 1px solid #e5e5e5;
+	border-top: 1px solid #e5e5e5;
+	overflow: hidden;
+	position: relative;
+}
+
+.bwhd-frontend-horizontalsubmenu .menu {
+	margin-bottom: 0;
+	padding: 11px 0;
+	margin-right:0px;
+	margin-left:0px;
+}
+.bwhd-frontend-horizontalsubmenu .menu li {
+	border-right: 1px solid rgba(0, 0, 0, 0.08);
+	color: #76747a;
+	display: inline;
+	font-size: 13px;
+	padding: 16px 0;
+	margin-right: -4px;
+	margin-left:0px !important;
+}
+
+.bwhd-frontend-horizontalsubmenu .menu li a {
+	border-radius: 3px;
+	color: #76747a;
+	padding: 15px 19px;
+	cursor: pointer;
+}
+.bwhd-frontend-horizontalsubmenu .menu li .fa {
+	color: #666;
+	font-size: 16px;
+	margin-right: 5px;
+}
+.bwhd-frontend-horizontalsubmenu-selecteditem {
+	border-right: 1px solid rgba(0, 0, 0, 0.08) !important;
+	display: inline !important;
+	font-size: 13px !important;
+	padding: 16px 0 !important;
+	margin-right: -4px;
+	background-color:#337ab7;
+}
+.bwhd-frontend-horizontalsubmenu-selecteditem a {
+	border-radius: 3px;
+	padding: 15px 19px;
+	color:#fff !important;
+	cursor: pointer;
+}
+.bwhd-frontend-horizontalsubmenu-selecteditem .fa {
+	color: #fff !important;
+	font-size: 16px;
+	margin-right: 5px;
+}
+
+
+
+#bwhd-frontend-controls-ticketthanks-span-tickernumber{
+	background-color: #f9f9f9;
+	border: 1px solid #dddddd;
+	border-radius: 4px;
+	display: block;
+	font-size: 24px;
+	padding: 10px;
+	text-align: center;
+	width: 100px;
+}

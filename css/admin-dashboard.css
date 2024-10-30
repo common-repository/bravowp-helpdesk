@@ -1,0 +1,592 @@
+
+/* Wp overrides */
+
+#wpcontent {
+
+}
+
+.bwhd{
+}
+
+.bwhd-admin-container{
+        margin: 20px 20px 20px 0px !important;
+}
+
+/* Admin page panes */
+
+.bwhd-admin-topbar {
+        background: #337ab7 none repeat scroll 0 0;
+        color: #fff;
+        height: 55px;
+        padding-left: 13px;
+        padding-top: 8px;
+        top: 0;
+        width: 100%;
+        z-index: 900;
+}
+
+.bwhd-admin-contentpane {
+        background: #f5f5f5 none repeat scroll 0 0;
+}
+
+
+/* top pane menu */
+.bwhd-admin-menupane {
+        float:right;
+        margin-top: 6px;
+        margin-right: 15px;
+}
+
+.bwhd-admin-menupane ul li {
+        float:left;
+        margin-bottom: 0px !important;
+}
+
+.bwhd-admin-menupane ul li a {
+        color: #fff;
+        float:left;
+        font-weight:bold;
+        cursor:pointer;
+        padding: 12px 13px 5px 10px !important;
+}
+
+.bwhd-admin-menupane ul li .icon {
+        border-radius: 3px;
+        color: #fff;
+        float: left;
+        height: 24px;
+        margin-right: 4px;
+        margin-top: 0;
+        text-align: center;
+        top: 8px;
+        width: 24px;
+}
+
+.bwhd-admin-menupane ul li a .icon i {
+        font-size:18px !important;
+}
+
+.bwhd-admin-menupane ul li a.active
+{
+        color: #337ab7 !important;
+        background-color:#fff !important;
+}
+
+.bwhd-admin-leftpane-menu-active-li a {
+        background-color:#fff !important;
+        color: #337ab7 !important;
+        border-top-right-radius:3px;
+        border-top-left-radius:3px;
+}
+.bwhd-admin-leftpane-menu-active-li .icon {
+        color: #337ab7 !important;
+}
+
+.bwhd-admin-menupane ul li a:hover  {
+        color: #337ab7 !important;
+        background-color:#fff !important;
+        opacity: 0.8;
+        border-top-right-radius:3px  !important;
+        border-top-left-radius:3px  !important;
+}
+.bwhd-admin-menupane ul li a:hover .icon {
+        color: #337ab7 !important;
+}
+
+
+#bwhd-admin-footer{
+        background-color: #ececec;
+        color: #bebebe;
+        font-size: 80%;
+        padding: 5px;
+        text-align: center;
+}
+#bwhd-admin-footer a,
+#bwhd-admin-footer a:link,
+#bwhd-admin-footer a:hover,
+#bwhd-admin-footer a:visited,
+#bwhd-admin-footer a:focus
+{
+        text-decoration: underline;
+        color: #bebebe;
+
+}
+
+/* Right pane Generic controls */
+.bwhd-admin-contentpane-control
+{
+        display:none;
+}
+
+.bwhd-admin-contentpane-page-header
+{
+        background: #fff none repeat scroll 0 0;
+        border-bottom: medium none;
+        padding-left: 15px;
+        padding-right: 23px;
+        padding-top: 17px;
+        min-height: 60px;
+        border-right: 1px solid #f5f5f5;
+        border-left: 1px solid #f5f5f5;
+}
+
+.bwhd-admin-contentpane-page-header-title{
+        color: #37363e;
+        font-size: 20px;
+        font-weight: normal;
+        line-height: normal;
+        margin: 0;
+        float:left;
+}
+
+.bwhd-admin-contentpane-page-wrapper{
+        padding: 20px;
+}
+
+.bwhd-admin-contentpane-greyedtext{
+        color:#adadad !important;
+}
+
+.bwhd-admin-contentpane-page-header-bigbuttons{
+        margin-top:-4px;
+}
+
+.bwhd-admin-contentpane-panel {
+        background: #fff none repeat scroll 0 0;
+        border: 1px solid #e5e5e5;
+        box-shadow: none;
+        padding: 20px;
+        border-radius: 3px;
+
+}
+.bwhd-admin-contentpane-panel-default {
+        border-color: #ddd;
+
+}
+.bwhd-admin-contentpane-panel-title {
+        background: #fff none repeat scroll 0 0;
+        border-bottom: medium none;
+        color: #58666e;
+        font-size: 14px;
+        font-weight: bold;
+        margin: -20px -20px 5px;
+        padding: 16px 20px;
+        text-transform: uppercase;
+}
+
+.bwhd-admin-contentpane-panel-default-minheight {
+        min-height: 190px;
+
+}
+
+
+.bwhd-admin-contentpane-horizontalsubmenu {
+        background: #eef5fb none repeat scroll 0 0;
+        border-left: 1px solid #e5e5e5;
+        border-right: 1px solid #e5e5e5;
+        border-top: 1px solid #e5e5e5;
+        overflow: hidden;
+        position: relative;
+}
+
+.bwhd-admin-contentpane-horizontalsubmenu .menu {
+        margin-bottom: 0;
+        padding: 11px 0;
+}
+.bwhd-admin-contentpane-horizontalsubmenu .menu li {
+        border-right: 1px solid #ededed;
+        color: #76747a;
+        display: inline;
+        font-size: 13px;
+        padding: 16px 0;
+        background-color: #fff;
+}
+
+.bwhd-admin-contentpane-horizontalsubmenu .menu li a {
+        border-radius: 3px;
+        color: #76747a;
+        padding: 15px 19px;
+        cursor: pointer;
+}
+.bwhd-admin-contentpane-horizontalsubmenu .menu li .fa {
+        color: #666;
+        font-size: 16px;
+        margin-right: 5px;
+}
+.bwhd-admin-contentpane-horizontalsubmenu-selecteditem {
+        border-right: 1px solid rgba(0, 0, 0, 0.08) !important;
+        display: inline !important;
+        font-size: 13px !important;
+        padding: 16px 0 !important;
+        margin-right: -4px;
+        background-color:#337ab7 !important;
+}
+.bwhd-admin-contentpane-horizontalsubmenu-selecteditem a {
+        border-radius: 3px;
+        padding: 15px 19px;
+        color:#fff !important;
+        cursor: pointer;
+}
+.bwhd-admin-contentpane-horizontalsubmenu-selecteditem .fa {
+        color: #fff !important;
+        font-size: 16px;
+        margin-right: 5px;
+}
+
+
+
+.bwhd-admin-contentpane-inner-panel {
+        position: relative;
+        margin-bottom: 30px;
+        background-color:#fff;
+}
+
+.bwhd-admin-contentpane-inner-panel-with-bottom-border {
+        border-bottom: 1px dotted #dddddd;
+        margin-bottom: 20px !important;
+        padding-bottom: 10px !important;
+}
+
+
+.bwhd-admin-contentpane-inner-panel-title {
+        color: #58666e;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 12px;
+}
+.bwhd-admin-contentpane-inner-panel-body {
+}
+
+.bwhd-admin-contentpane-datatable-editicon
+{
+        color: #5cb85c;
+        cursor: pointer;
+        font-size: 16px;
+}
+
+
+#bwhd-admin-contentpane-ticketmessages-list{
+        max-height: 400px;
+        overflow: auto;
+}
+
+.bwhd-admin-contentpane-ticketmessages-message{
+}
+
+.bwhd-admin-contentpane-ticketmessages-message-text{
+        background: #fbfbef none repeat scroll 0 0;
+        color: #0a451d;
+        border-radius: 20px;
+        display: inline-table;
+        padding: 7px 20px;
+}
+.bwhd-admin-contentpane-ticketmessages-message-text-blue{
+        background: #f1f6f6 none repeat scroll 0 0 !important;
+}
+.bwhd-admin-contentpane-ticketmessages-message-date{
+        font-size:70%;
+        display:block;
+}
+
+.bwhd-admin-errorinputborder{
+        border-color: #ef4836 !important;
+}
+
+.bwhd-admin-settings-group{
+        border-bottom: 1px dotted silver;
+        margin-top: 20px;
+        padding-bottom: 20px;
+}
+
+.bwhd-admin-setting-label{
+        padding-top:0px !important;
+        cursor: default !important;
+}
+
+.bwhd-admin-settings-about-panel{
+        border: 1px solid #dddddd;
+        border-radius: 4px;
+        padding: 15px 10px;
+        text-align: center;
+}
+.bwhd-admin-settings-about-subtitle{
+        font-size: 135%;
+        margin-bottom: 15px;
+        margin-top: 10px;
+}
+
+.bwhd-admin-settings-tables-type
+{
+        padding: 4px;
+        width: 95%;
+}
+.bwhd-admin-settings-tables-typeselected
+{
+        background-color: #337ab7;
+        border-radius: 4px;
+        color: #fff;
+}
+
+.bwhd-admin-label-required:after{
+        content:" *";
+        color:red;
+}
+
+
+
+
+
+
+.bwhd-admin-dashboard-widget-title{
+        font-size:13px;
+        display:block;
+        margin-bottom:12px;
+}
+.bwhd-admin-dashboard-widget-number{
+        font-size:38px;
+        display:block;
+        font-weight: bold;
+        margin-bottom:12px;
+}
+.bwhd-admin-dashboard-widget-subtitle{
+        font-size:12px;
+        color:#adadad !important;
+        display:block;
+}
+
+
+
+
+.bwhd-admin-dashboard-lasttickets-table{
+}
+.bwhd-admin-dashboard-lasttickets-table-tdticketid span{
+        background-color: #f3f3f3;
+        border: 1px solid silver;
+        border-radius: 3px;
+        display: block;
+        margin-top: 2px;
+        padding: 10px 4px;
+        text-align: center;
+        width: 40px;
+}
+.bwhd-admin-dashboard-lasttickets-table-tdavatar img{
+}
+
+
+
+#bwhd_admin_rightpane_ticketslist_filterscontainer{
+        background-color: #eef5fb;
+        border: 1px solid #dddddd;
+        border-radius: 4px;
+        padding: 7px 13px;
+        width: 100%;
+        margin-bottom:20px;
+}
+
+#bwhd-admin-ticketslist-chart-openvsclosed .ct-series-a .ct-bar,  #bwhd-admin-ticketslist-chart-openvsclosed .ct-series-a .ct-point
+{
+        stroke:#4cae4c !important;
+}
+#bwhd-admin-ticketslist-chart-openvsclosed .ct-series-b .ct-bar,  #bwhd-admin-ticketslist-chart-openvsclosed .ct-series-b .ct-point
+{
+        stroke:#999999 !important;
+}
+
+
+.bwhd-admin-ticketslist-counter
+{
+        border: 1px solid #dddddd;
+        border-radius: 4px;
+        margin-bottom: 7px;
+        text-align: center;
+        padding-bottom: 1px !important;
+        padding-top: 1px !important;
+}
+.bwhd-admin-ticketslist-counter span
+{
+        font-size: 130%;
+}
+.bwhd-admin-ticketslist-counter-button
+{
+        padding-bottom: 1px !important;
+        padding-top: 1px !important;
+}
+.bwhd-admin-ticketslist-avatar
+{
+        float:left;
+        width:40px;
+        margin-top:2px;
+}
+.bwhd-admin-ticketslist-customerlabel
+{
+        font-size:80%;
+}
+
+.bwhd-admin-ticketslist-number{
+        background-color: #ffffea;
+        border: 1px solid #dddddd;
+        border-radius: 4px;
+        font-size: 130%;
+        font-weight: bold;
+        padding: 2px 0;
+}
+.bwhd-admin-ticketslist-detailspane{
+        font-size:90%;
+}
+.bwhd-admin-ticketslist-number-viewticketpage{
+        background-color: #ffffea;
+        border: 1px solid #dddddd;
+        border-radius: 4px;
+        font-size: 110%;
+        font-weight: bold;
+        padding: 2px 10px;
+}
+.bwhd-admin-ticketslist-buttonedit {
+        padding: 4px 8px;
+}
+
+#bwhd_admin_rightpane_ticketslist_table tbody td {
+        padding: 14px 10px;
+}
+#bwhd_admin_rightpane_ticketslist_table_info {
+        font-size:80%;
+        margin-top: 13px;
+}
+#bwhd_admin_rightpane_ticketslist_table_paginate{
+        font-size:80%;
+
+}
+
+
+
+/* common (input) */
+.bwhd-admin-common-input,
+.bwhd-admin-common-input:focus
+{
+        box-shadow:none !important;
+
+}
+
+
+
+/* common (input) */
+
+
+
+/* datatables restyle */
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+        background: #999999 !important;
+        color: #fff !important;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+        cursor: pointer;
+        display: inline-block;
+        margin-left: 2px;
+        min-width:12px !important;
+        padding: 0 4px !important;
+        margin-top: 15px;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+        background-color: #5cb85c;
+        border-color: #4cae4c;
+        background-image: none !important;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button .disabled {
+        background-color: #fff !important;
+}
+/* datatables restyle */
+
+
+
+
+
+
+.bwhd-admin-dashboard-setting-notification-tokenkey{
+        font-weight: bold;
+}
+
+.bwhd-admin-dashboard-setting-notification-tokendescription{
+        font-size:80%;
+        margin-bottom: 10px;
+}
+#bwhd_form_settings_notification_editpanel_title{
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 5px;
+}
+#bwhd_form_settings_notification_editpanel_event{
+        font-size: 12px;
+        margin-bottom: 20px;
+}
+
+
+
+/* test email settings */
+.bwhd-admin-settings-emailtoticket-teststep
+{
+        display:block;
+}
+.bwhd-admin-settings-emailtoticket-teststep-error
+{
+        color:red;S
+}
+#bwhd-admin-contentpane-control-settings-emailtoticket-div_logresult
+{
+        background-color: #ffffdf;
+        display: none;
+        margin-top: 10px;
+        padding: 15px;
+}
+
+
+
+/* Install Wizard */
+#bwhd-admin-installwizard-topbar
+{
+        background-color:#337ab7;
+        width: 70%;
+        margin:auto;
+        border-top-right-radius: 5px;
+        border-top-left-radius: 5px;
+        color: #fff;
+        height: 55px;
+        padding-left: 13px;
+        padding-top: 8px;
+}
+#bwhd-admin-installwizard
+{
+        background: #ffffff none repeat scroll 0 0;
+        margin: auto;
+        text-align: center;
+        width: 70%;
+        padding: 30px 80px;
+        color: #696969;
+        border-bottom-right-radius: 5px;
+        border-bottom-left-radius: 5px;
+}
+.bwhd-admin-installwizard-title
+{
+        font-size:25px;
+        margin-bottom:20px;
+}
+.bwhd-admin-installwizard-buttonspanel
+{
+        border-top: 1px solid silver;
+        margin-top: 30px;
+        padding-top: 20px;
+}
+.bwhd-admin-installwizard-buttonspanel .btn{
+        display: inline-block;
+        font-weight: bold;
+        padding: 3px 20px;
+}
+
+#bwhd-admin-installwizard-progressbar
+{
+        height:100%;
+        text-align:center;
+        font-size:10px;
+        font-weight:bold;
+        transition: width 0.5s;
+}

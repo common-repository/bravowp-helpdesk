@@ -1,0 +1,852 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-09-05 14:39+0200\n"
+"PO-Revision-Date: 2016-09-05 14:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: scripts\n"
+
+#: ajax/ajax-admin-tickets-messages.php:73
+msgid "Please type a Message."
+msgstr ""
+
+#: ajax/ajax-admin-tickets.php:216
+msgid "Please type a name for the Customer."
+msgstr ""
+
+#: ajax/ajax-admin-tickets.php:220
+msgid "Please type an email for the Customer."
+msgstr ""
+
+#: ajax/ajax-admin-tickets.php:228
+msgid "Please select a Customer."
+msgstr ""
+
+#: ajax/ajax-admin-tickets.php:235
+msgid "Please type a title for this Ticket."
+msgstr ""
+
+#: ajax/ajax-admin-tickets.php:239
+msgid "Please type a description for this Ticket."
+msgstr ""
+
+#: ajax/ajax-admin-tickets.php:243
+msgid "Please select a Category."
+msgstr ""
+
+#: ajax/ajax-frontend-tickets-messages.php:57
+msgid "Please type your message."
+msgstr ""
+
+#: ajax/ajax-frontend-tickets.php:111
+msgid "Please type your full name."
+msgstr ""
+
+#: ajax/ajax-frontend-tickets.php:115
+msgid "Please type your email address."
+msgstr ""
+
+#: ajax/ajax-frontend-tickets.php:120
+msgid "Please enter a Title for this Ticket."
+msgstr ""
+
+#: ajax/ajax-frontend-tickets.php:124
+msgid "Please enter a Description for this Ticket."
+msgstr ""
+
+#: ajax/ajax-frontend-tickets.php:128
+msgid "Please select a Category for this Ticket."
+msgstr ""
+
+#: ajax/ajax-frontend-tickets.php:132
+msgid "Please type the value as shown in the image."
+msgstr ""
+
+#: ajax/ajax-frontend-tickets.php:138
+msgid "The value you typed and the value shown do not match."
+msgstr ""
+
+#: business-logic/install.php:226
+msgid "Pre-Sale Question"
+msgstr ""
+
+#: business-logic/install.php:229
+msgid "Support on Product"
+msgstr ""
+
+#: business-logic/install.php:232
+msgid "Generic Enquiry"
+msgstr ""
+
+#: business-logic/placeholders.php:14
+msgid "No data (add on not installed)"
+msgstr ""
+
+#: business-logic/placeholders.php:33
+msgid "Coming Soon!"
+msgstr ""
+
+#: business-logic/placeholders.php:35
+msgid ""
+"This feature will be soon ready. Please check www.bravowp.com for more "
+"information."
+msgstr ""
+
+#: business-logic/placeholders.php:57
+msgid "Add-on Available!"
+msgstr ""
+
+#: business-logic/placeholders.php:59
+msgid ""
+"This feature is available as an add-on. Please visit www.bravowp.com for "
+"more information."
+msgstr ""
+
+#: business-logic/placeholders.php:80 business-logic/placeholders.php:102
+msgid "No data to show at this time."
+msgstr ""
+
+#: controllers/priorities-controller.php:22
+msgid "Low"
+msgstr ""
+
+#: controllers/priorities-controller.php:27
+msgid "Normal"
+msgstr ""
+
+#: controllers/priorities-controller.php:32
+msgid "Urgent"
+msgstr ""
+
+#: controllers/status-controller.php:22
+msgid "Open"
+msgstr ""
+
+#: controllers/status-controller.php:28
+msgid "Work in Progress"
+msgstr ""
+
+#: controllers/status-controller.php:34
+msgid "Closed"
+msgstr ""
+
+#: controllers/ticket-controller.php:267
+msgid "(unassigned)"
+msgstr ""
+
+#: controls/admin-dashboard-about.php:9
+msgid "About BravoWP's Helpdesk"
+msgstr ""
+
+#: controls/admin-dashboard-about.php:28
+msgid "Thank you!"
+msgstr ""
+
+#: controls/admin-dashboard-about.php:30
+msgid "for using our products, we hope you enjoy it."
+msgstr ""
+
+#: controls/admin-dashboard-about.php:32
+msgid "You may want to visit our website:"
+msgstr ""
+
+#: controls/admin-dashboard-about.php:34
+msgid "Visit BravoWP.com"
+msgstr ""
+
+#: controls/admin-dashboard-about.php:36
+msgid "to find all the add-ons available for BravoWP's Helpdesk plugin."
+msgstr ""
+
+#: controls/admin-dashboard-about.php:38
+msgid ""
+"Feel free to Contact Us for any support or in case you need modifications or "
+"your own WP plugin from scratch!"
+msgstr ""
+
+#: controls/admin-dashboard-help.php:7
+msgid "Help and Support"
+msgstr ""
+
+#: controls/admin-dashboard-menu.php:11
+#: controls/admin-dashboard-ticketslist.php:10
+msgid "Support Tickets"
+msgstr ""
+
+#: controls/admin-dashboard-menu.php:20
+msgid "Settings"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:10
+msgid "Helpdesk Settings"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:30
+msgid "General"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:33
+msgid "Tables"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:36
+msgid "Notifications"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:39
+#: controls/admin-dashboard-ticketview-attachments.php:9
+#: controls/admin-dashboard-ticketview.php:71
+msgid "Attachments"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:42
+msgid "Email To Tickets"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:45
+msgid "System"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:48
+msgid "About"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:67
+msgid "Allow UnRegistered User to create Tickets?"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:70
+#: controls/admin-dashboard-settings.php:98
+#: controls/admin-dashboard-settings.php:123
+#: controls/admin-dashboard-settings.php:137
+msgid "No"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:71
+#: controls/admin-dashboard-settings.php:99
+#: controls/admin-dashboard-settings.php:124
+#: controls/admin-dashboard-settings.php:138
+msgid "Yes"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:75
+msgid ""
+"Use this settings to restrict the use of front-end Helpdesk to registered "
+"users only. Default: No."
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:81
+msgid "Default screen for Unregistered Users?"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:84
+msgid "Main Page"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:85
+#: controls/admin-dashboard-ticketnew.php:162
+#: controls/admin-dashboard-ticketslist.php:12 controls/frontend-home.php:36
+msgid "Create Ticket"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:89
+msgid ""
+"If Unregistered Users can create Tickets, this option define the first panel "
+"that is shown when they access the helpdesk front-end. Default: Main Page."
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:95
+msgid "Require CAPTCHA on Ticket Creation?"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:103
+msgid ""
+"Set this yes to require a CAPTCHA validation when users create new Support "
+"Tickets. Default: No."
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:109
+msgid "Helpdesk Email"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:114
+msgid ""
+"The email address that will be notified when Customer create Support "
+"Tickets. Note: this email address is used as sender and recipient when "
+"'Email Notification Extension' is installed and activated."
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:120
+msgid "Email on Customer Ticket Creation?"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:128
+msgid ""
+"If enabled, the Helpdesk will send an email when a Customer creates a "
+"Support Ticket. Note that this setting is ignored if 'Email Notification "
+"Extension' is installed and active."
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:134
+msgid "Enable WooCommerce Integration?"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:142
+msgid ""
+"If enabled, and if WooCommerce plugin is installed and active, will display "
+"drop downs allowing to relate each Support Ticket to a WooCommerce product "
+"in your Store. Default: no."
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:148
+msgid "Enable System Events Log?"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:151
+msgid "Do not log events"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:152
+msgid "Yes, Only Errors"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:153
+msgid "Yes, Full Debug Mode"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:157
+msgid ""
+"Enable the logging of system activity only for debug purpouses or in case of "
+"errors."
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:172
+msgid "Saving Settings is denied in Public Demo."
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:183
+msgid "Save Generic Settings"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:261
+msgid "Available Table Types"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:264
+msgid "Ticket Categories"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:272
+msgid "Click on a table name in the left pane."
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:287
+msgid ""
+"Editing Tables is denied in Public Demo. The buttons will be visible, but "
+"the saving of the changes will be blocked."
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:299
+msgid "Create New"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:329
+msgid "Viewing of the System Log is denied in Public Demo."
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:342
+msgid "Load Events Log"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:343
+msgid "Clear Events Log"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:367
+msgid "Professional Edition!"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:370
+msgid "Get all the professional functions unlocked, upgrade now!"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:373
+msgid "Upgrade to PRO!"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:379
+msgid "Help & Support"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:382
+msgid ""
+"Read the Helpdesk documentation on this page. Also, use the Contact Us page "
+"on our website in case you need support."
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:385
+msgid "Read Documentation"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:391
+msgid "Rate Us!"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:394
+msgid ""
+"The more the plugin gets popular, the more resources and motivation we will "
+"have to keep adding new features. Thank you in advance!"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:397
+msgid "Go to Wordpress.org"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:419
+msgid "Add / Edit Category"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:428
+msgid "Category Name"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:443
+#: controls/frontend-ticketnew.php:153 controls/frontend-ticketslist.php:24
+msgid "Cancel"
+msgstr ""
+
+#: controls/admin-dashboard-settings.php:446
+msgid "Save Changes"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:9
+#: controls/frontend-ticketslist.php:25
+msgid "Create New Support Ticket"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:11
+#: controls/admin-dashboard-ticketview.php:14
+#: controls/frontend-ticketedit.php:68
+msgid "Go Back"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:32
+msgid "Customer Information"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:38
+msgid "Customer type"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:40
+msgid "Existing"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:41
+msgid "New Customer"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:46
+msgid "Customer Name"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:53
+msgid "Customer Email"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:60
+msgid "Select Customer"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:83
+msgid "Ticket Information"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:89 controls/frontend-ticketnew.php:67
+msgid "Ticket Title"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:96
+msgid "Ticket Description"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:103
+#: controls/admin-dashboard-ticketview.php:147
+msgid "Ticket Category"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:121
+#: controls/admin-dashboard-ticketview.php:162
+msgid "Ticket Priority"
+msgstr ""
+
+#: controls/admin-dashboard-ticketnew.php:140
+msgid "Ticket Product"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:35
+msgid "Tickets List"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:41
+msgid "Search"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:47
+msgid "Status"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:50
+#: controls/admin-dashboard-ticketslist.php:67
+#: controls/admin-dashboard-ticketslist.php:82
+msgid "(Include All)"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:51
+msgid "- Active -"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:52
+msgid "- Unresponded -"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:64
+#: controls/frontend-ticketnew.php:81
+msgid "Category"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:79
+msgid "Agent"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:83
+msgid "- Unassigned -"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:116
+msgid "Quick Tickets Searches"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:121
+msgid "Assigned to Me:"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:125
+msgid "Unresponded Tickets:"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:129
+msgid "Closed by Me:"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:143
+msgid "Opened Tickets vs Closed Tickets"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:151
+msgid "Created Tickets"
+msgstr ""
+
+#: controls/admin-dashboard-ticketslist.php:153
+msgid "Closed Tickets"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview-events.php:12
+msgid "No messages yet."
+msgstr ""
+
+#: controls/admin-dashboard-ticketview-events.php:14
+msgid "ADD MESSAGE"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview-events.php:20
+msgid "Message:"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview-events.php:23
+#: controls/frontend-ticketedit.php:106
+msgid "Save Message"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview-tasks.php:9
+msgid "Tasks"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview.php:35
+msgid "Support Ticket Details"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview.php:42
+#: controls/frontend-ticketedit.php:45
+msgid "Ticket Title:"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview.php:49
+#: controls/frontend-ticketedit.php:52
+msgid "Ticket Description:"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview.php:68
+msgid "Messages & Events"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview.php:105
+msgid "Customer Info"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview.php:126
+msgid "Tickets Properties"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview.php:132
+msgid "Ticket Status"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview.php:178
+#: controls/frontend-ticketnew.php:101
+msgid "Product"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview.php:197
+msgid "Save Ticket Properties"
+msgstr ""
+
+#: controls/admin-dashboard-ticketview.php:199
+msgid "Ticket Properties were updated"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:4
+msgid ""
+"In this section you can configure BravoWP Helpdesk to check an email box at "
+"your preferred time interval, and convert any email that is found to a new "
+"Helpdesk Ticket. You will find the created Ticket in the Tickets list page."
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:14
+msgid "Mailbox Check Settings"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:20
+msgid "Enable Email Fetching?"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:24
+msgid "Off"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:25
+msgid "Every 10 Minutes"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:26
+msgid "Every Hour"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:27
+msgid "Every 3 Hours"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:28
+msgid "Once per Day"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:38
+msgid "Username"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:50
+msgid "Password"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:62
+msgid "Server"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:74
+msgid "Port"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:86
+msgid "Save Email To Ticket Settings"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:108
+msgid "Email Fetching Test"
+msgstr ""
+
+#: controls/admin-settings-emailtoticket.php:112
+msgid "Test Settings"
+msgstr ""
+
+#: controls/frontend-home.php:4
+msgid "Welcome to our Support Page!"
+msgstr ""
+
+#: controls/frontend-home.php:21
+msgid ""
+"Welcome to our Helpdesk. If you have a problem, a question or a request for "
+"help, you can create a New Support Ticket by clicking on the following "
+"button. You can review your existing Support Tickets by clicking on the "
+"'Search Ticket' button."
+msgstr ""
+
+#: controls/frontend-home.php:25
+msgid ""
+"Welcome to our Helpdesk. If you have a problem, a question or a request for "
+"help, you can create a New Support Ticket by clicking on the following "
+"button."
+msgstr ""
+
+#: controls/frontend-home.php:48
+msgid "Search Tickets"
+msgstr ""
+
+#: controls/frontend-home.php:69
+msgid "Our Helpdesk is dedicated to our Registered users."
+msgstr ""
+
+#: controls/frontend-home.php:70
+msgid "Please "
+msgstr ""
+
+#: controls/frontend-home.php:70
+msgid "Login"
+msgstr ""
+
+#: controls/frontend-home.php:70
+msgid "or"
+msgstr ""
+
+#: controls/frontend-home.php:70
+msgid "Register"
+msgstr ""
+
+#: controls/frontend-home.php:70
+msgid "to our website. Thank you!"
+msgstr ""
+
+#: controls/frontend-ticketedit.php:25
+msgid "Review your Support Ticket"
+msgstr ""
+
+#: controls/frontend-ticketedit.php:31
+msgid "Ticket Number:"
+msgstr ""
+
+#: controls/frontend-ticketedit.php:38
+msgid "Opened On:"
+msgstr ""
+
+#: controls/frontend-ticketedit.php:59
+msgid "Status:"
+msgstr ""
+
+#: controls/frontend-ticketedit.php:74
+msgid "Messages"
+msgstr ""
+
+#: controls/frontend-ticketedit.php:81
+msgid "Attachmets"
+msgstr ""
+
+#: controls/frontend-ticketedit.php:92
+msgid "Messages for this Ticket"
+msgstr ""
+
+#: controls/frontend-ticketedit.php:97
+msgid "No Messages yet."
+msgstr ""
+
+#: controls/frontend-ticketedit.php:102
+msgid "Add New Message"
+msgstr ""
+
+#: controls/frontend-ticketnew.php:11
+msgid "Create a new Support Ticket"
+msgstr ""
+
+#: controls/frontend-ticketnew.php:17
+msgid ""
+"Fill the information below to create a new Support Ticket. Our team will get "
+"in touch with your as soon as possible. Thank you!"
+msgstr ""
+
+#: controls/frontend-ticketnew.php:33
+msgid "Your Name"
+msgstr ""
+
+#: controls/frontend-ticketnew.php:54
+msgid "Your Email"
+msgstr ""
+
+#: controls/frontend-ticketnew.php:74
+msgid "Problem / Request Description"
+msgstr ""
+
+#: controls/frontend-ticketnew.php:128
+msgid "Please type the following value"
+msgstr ""
+
+#: controls/frontend-ticketnew.php:152
+msgid "Save Ticket"
+msgstr ""
+
+#: controls/frontend-ticketslist.php:9
+msgid "Manage your existing Support Tickets"
+msgstr ""
+
+#: controls/frontend-ticketslist.php:15
+msgid ""
+"This is a list of the Support Tickets that you have created. Click on the "
+"pencil icon to view the details and progress of the solution process. To "
+"create a new Support Ticket, click on the link at the bottom."
+msgstr ""
+
+#: controls/frontend-ticketslist.php:21
+msgid "No Support Tickets found."
+msgstr ""
+
+#: controls/frontend-ticketthanks.php:4
+msgid "Support Ticket received!"
+msgstr ""
+
+#: controls/frontend-ticketthanks.php:9
+msgid ""
+"Thank you, we received your request! Our Support Agents will operate on your "
+"Ticket as soon as possible. No further action is needed from your side; "
+"please hold on and await our response."
+msgstr ""
+
+#: controls/frontend-ticketthanks.php:12
+msgid "Your Ticket Number is:"
+msgstr ""
+
+#: controls/frontend-ticketthanks.php:17
+msgid "Go Home"
+msgstr ""
+
+#: pages/admin.php:11
+msgid "This is an online Public Demo. Some of the functions are not available."
+msgstr ""
+
+#: pages/admin.php:13
+msgid "Please use a mature behaviour, thank you!"
+msgstr ""
+
+#: pages/admin.php:54
+msgid ""
+"BravoWP Helpdesk - Documentation & Support: <a href='http://www.bravowp.com' "
+"target='_blank'>www.bravowp.com</a> - Wordpress plugin page: <a "
+"href='https://it.wordpress.org/plugins/bravowp-helpdesk/' "
+"target='_blank'>click here</a>"
+msgstr ""

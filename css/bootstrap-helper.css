@@ -1,0 +1,140 @@
+
+.no-gutter {
+	padding-left:0;
+    padding-right:0;
+}
+.no-gutter-right {
+    padding-right:0;
+}
+.no-gutter-left {
+    padding-left:0;
+}
+.no-side-margin {
+	margin-left:0 !important;
+    margin-right:0 !important;
+}
+
+.no-topbot-margin {
+	margin-bottom:0 !important;
+    margin-top:0 !important;
+}
+
+.radio-input-fix{
+	height:  0px !important;
+}
+
+.radio-inline-fix{
+	padding-top: 0px !important;
+}
+
+
+
+.btn
+{
+	text-shadow:none !important;
+	box-shadow:none !important;
+    text-decoration: none !important;
+}
+.btn .fa
+{
+	margin-right:5px;
+}
+.bwhd .btn-default {
+    color: #6a6a6a !important;
+}
+
+
+
+.glyphicon{
+	margin-right: 7px;
+}
+
+.bwhd label {
+    font-weight:normal !important;
+}
+
+
+.bwhd .form-control {
+    background: #fff none repeat scroll 0 0 !important;
+    border: 1px solid #bdc4c9;
+    border-radius: 3px !important;
+    box-shadow: none !important;
+    font-size: 14px !important;
+    padding-left: 10px !important;
+}
+
+.bwhd .form-control-force-auto-width {
+    width:auto !important;
+}
+
+.bwhd .form-control:focus {
+    background: #f7f7f7 none repeat scroll 0 0 !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.bwhd .form-horizontal .control-label {
+    text-align: left !important;
+}
+
+.dropdown-menu a:focus{
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+
+table.dataTable thead th, table.dataTable thead td {
+    border-bottom: 1px solid #cbcbcb !important;
+    padding: 10px 9px !important;
+}
+table.dataTable.no-footer {
+    border-bottom: 1px solid #cbcbcb !important;
+}
+
+
+.bwhd .alert-info {
+    background-image: none !important;
+    background-color: #f0f0f0 !important;
+    border-color: #e5e5e5 !important;
+    color: #5d5c5c !important;
+}
+
+.bwhd .alert-warning {
+    background-image: none !important;
+    background-color: #fbf5da !important;
+    border-color: #faebcc;
+    color: #8a6d3b;
+}
+.bhwd-alert-redicon{
+    color:red !important;
+    margin-right: 7px;
+}
+.bwhd .alert-success{
+    background-image: none !important;
+}
+
+
+
+.bwhd-ajax-loader{
+    background-color: #fff;
+    display: block;
+    height: 100%;
+    left: 0;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 20px;
+    width: 100%;
+    z-index: 1000;
+}
+
+.bwhd-ajax-loader img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto; /* presto! */
+  z-index: 1000;
+  width:64px !important;
+  height: 64px !important;
+}
